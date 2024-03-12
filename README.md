@@ -18,11 +18,11 @@ Customizable Settings: Allows users to set their desired intervals for data flus
 ## Usage
 Ensure you have Python installed on your system and install the required dependencies:
 ```Python
-pip install pynput
+pip3 install pynput
 ```
 To start the keylogger, simply execute the script:
 ```Python
-python keylogger.py
+python3 Keylogger_Advanced.py
 ```
 The keylogger will run in the background, logging all keystrokes to log.txt. To stop the keylogger, press the escape key.
 
